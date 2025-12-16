@@ -1,13 +1,13 @@
 // State Variables
 let machineState = 'STOPPED'; // STOPPED, RUNNING, ALARM
-let currentScreen = 'screen-start';
+let currentScreen = 'screen-start'; 
 let productionCount = 0;
 let simulationInterval = null;
 
 // Counter Logic State
 let productSensorActive = false;
 let cycleComplete = false;
-let cycleTimer = null;
+let cycleTimer = null; 
 
 // Password Protection
 let pendingTargetScreen = null;

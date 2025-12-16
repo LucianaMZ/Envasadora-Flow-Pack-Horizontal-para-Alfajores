@@ -3,7 +3,7 @@
 ## 1. Explicación Lógica del Contador (Para Defensa)
 El contador de producción es **por evento**, no por tiempo ni velocidad. Esto garantiza que solo se cuenten productos realmente procesados.
 
-**La secuencia lógica es:**
+**La secuencia lógica es:** 
 1.  **Detección**: El sensor de producto (`I_Sensor_Prod`) detecta el paso de un alfajor.
 2.  **Tracking**: El PLC registra la posición del alfajor (bit de registro o desplazamiento en shift register).
 3.  **Ejecución**: Se activan las mordazas de sellado transversal (`Q_Motor_Cuch`).

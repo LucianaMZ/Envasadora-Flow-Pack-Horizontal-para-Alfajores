@@ -1,5 +1,5 @@
 # Escenarios Hipotéticos de Alarmas y Fallas
-## Envasadora Flow-Pack Compacta - Proyecto Final
+## Envasadora Flow-Pack Compacta - Proyecto Final 
 
 Este documento detalla los casos hipotéticos de fallas simulados en el HMI, explicando la causa física, la detección por parte del PLC y la respuesta del sistema.
 

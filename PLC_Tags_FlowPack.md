@@ -3,7 +3,7 @@
 
 ## Entradas Digitales (Digital Inputs - DI)
 | Tag | Dirección | Descripción |
-|-----|-----------|-------------|
+|-----|-----------|-------------| 
 | I_Start_Btn | %I0.0 | Pulsador Físico START |
 | I_Stop_Btn | %I0.1 | Pulsador Físico STOP (NC) |
 | I_Emergencia | %I0.2 | Seta de Emergencia (NC) |
